@@ -1,1 +1,7 @@
-
+{
+  "profile": "gaming",
+  "hotkeys": {
+    "F1": "open_browser",
+    "F2": "mute_audio"
+  }
+}
